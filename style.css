@@ -1,5 +1,4 @@
 /* 基本設定 */
-/* 基本設定 */
 * {
     margin: 0;
     padding: 0;
@@ -110,6 +109,7 @@ body {
     opacity: 0.85;             
     text-decoration: underline; /* 滑鼠移上去顯現底線 */
 }
+
 
 
 
